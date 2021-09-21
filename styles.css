@@ -3,7 +3,7 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 	background-color: #000;
-	background-image: url(https://images.wallpaperscraft.com/image/single/galaxy_stars_light_nebula_61697_1280x720.jpg) no-repeat;
+	background-image: url(bg.gif);
 	background-size: cover;
 }
   .box h1 {
